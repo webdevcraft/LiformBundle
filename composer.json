@@ -11,11 +11,11 @@
   ],
   "autoload": {
     "psr-4": {
-      "Webdevcraft\\LiformBundle\\": ""
+      "Limenius\\LiformBundle\\": ""
     }
   },
   "require": {
-    "webdevcraft/liform": "^0.18.0"
+    "webdevcraft/liform": "^0.18.1"
   },
   "minimum-stability": "stable"
 }
