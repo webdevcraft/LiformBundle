@@ -15,7 +15,7 @@
     }
   },
   "require": {
-    "webdevcraft/liform": "^0.17.0"
+    "webdevcraft/liform": "^0.18.0"
   },
   "minimum-stability": "stable"
 }
